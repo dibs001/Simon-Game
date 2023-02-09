@@ -1,5 +1,6 @@
 # Simon-Game
 Think fast... SIMON says, "Chase my flashing lights and sounds"!
+
 The challenge is to repeat the ever-increasing random signals that SIMON generates.
 
 
